@@ -1,0 +1,13 @@
+{
+  "executedAt": "2026-01-31T15:36:36.971Z",
+  "results": [
+    {
+      "tcId": "Neg_Fun_0010",
+      "name": "Word order confusione",
+      "input": "heta api movie ekak balanna yanawa kiyala oya kiwwa",
+      "expected": "ඔයා අද එන්නේ නැත්නම් අපි හෙට meeting එක කරන්න හිතමු කියලා මම කිව්වා",
+      "actual": "හෙට අපි movie එකක් බලන්න යනwඅ කියල ඔය කිwwඅ",
+      "status": "Fail"
+    }
+  ]
+}
